@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CompareApp</string>
+    <string name="compare_button_text">Comparar</string>
+</resources>
